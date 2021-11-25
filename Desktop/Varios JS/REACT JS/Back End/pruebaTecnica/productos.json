@@ -1,0 +1,132 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "Verde",
+            "precio": 25.00,
+            "moneda": "MXN",
+            "imagen": "https://res.cloudinary.com/didwrtnme/image/upload/v1637290340/APP/Guajo/guajolota-verde_fnqbn0.png",
+            "categoria": "guajolotas"
+        },
+        {
+            "id": 2,
+            "nombre": "Mole",
+            "precio": 25.00,
+            "moneda": "MXN",
+            "imagen": "https://res.cloudinary.com/didwrtnme/image/upload/v1637290341/APP/Guajo/guajolota-mole_x9o5wi.png",
+            "categoria": "guajolotas"
+        },
+        {
+            "id": 3,
+            "nombre": "Guayaba",
+            "precio": 25.00,
+            "moneda": "MXN",
+            "imagen": "https://res.cloudinary.com/didwrtnme/image/upload/v1637290341/APP/Guajo/guajolota-guayaba_d6icl6.png",
+            "categoria": "guajolotas"
+        },
+        {
+            "id": 4,
+            "nombre": "Piña",
+            "precio": 25.00,
+            "moneda": "MXN",
+            "imagen": "https://res.cloudinary.com/didwrtnme/image/upload/v1637290341/APP/Guajo/guajolota-pi%C3%B1a_p4rl4e.png",
+            "categoria": "guajolotas"
+        },
+        {
+            "id": 5,
+            "nombre": "Pasas",
+            "precio": 25.00,
+            "moneda": "MXN",
+            "categoria": "guajolotas",
+            "imagen": "https://res.cloudinary.com/didwrtnme/image/upload/v1637290343/APP/Guajo/guajolota-pasas_bbnmnz.png"
+        },
+        {
+            "id": 6,
+            "nombre": "Tamal Verde",
+            "precio": 14.00,
+            "moneda": "MXN",
+            "categoria": "tamal",
+            "imagen": "https://res.cloudinary.com/didwrtnme/image/upload/v1637290409/APP/tamales/tamal-verde_abwwyp.png"
+        },
+        {
+            "id": 7,
+            "nombre": "Tamal de Mole",
+            "precio": 14.00,
+            "moneda": "MXN",
+            "categoria": "tamal",
+            "imagen": "https://res.cloudinary.com/didwrtnme/image/upload/v1637290406/APP/tamales/tamal-mole_vf3src.png"
+        },
+        {
+            "id": 8,
+            "nombre": "Tamal de Guayaba",
+            "precio": 14.00,
+            "moneda": "MXN",
+            "categoria": "tamal",
+            "imagen": "https://res.cloudinary.com/didwrtnme/image/upload/v1637290406/APP/tamales/tamal-guayaba_iatesl.png"
+        },
+        {
+            "id": 9,
+            "nombre": "Tamal de Piña",
+            "precio": 14.00,
+            "moneda": "MXN",
+            "categoria": "tamal",
+            "imagen": "https://res.cloudinary.com/didwrtnme/image/upload/v1637290408/APP/tamales/tamal-pi%C3%B1a_ebrunn.png"
+        },
+        {
+            "id": 10,
+            "nombre": "Tamal de Pasas",
+            "precio": 14.00,
+            "moneda": "MXN",
+            "categoria": "tamal",
+            "imagen": "https://res.cloudinary.com/didwrtnme/image/upload/v1637290409/APP/tamales/tamal-pasas_ag8fph.png"
+        },
+        {
+            "id": 11,
+            "nombre": "Champurrado",
+            "precio": 12.00,
+            "moneda": "MXN",
+            "categoria": "bebidas",
+            "imagen": "https://res.cloudinary.com/didwrtnme/image/upload/v1637290366/APP/bebidas/bebida-champurrado_mfsgsw.png"
+        },
+        {
+            "id": 12,
+            "nombre": "Atole de Arroz con Leche",
+            "precio": 12.00,
+            "moneda": "MXN",
+            "categoria": "bebidas",
+            "imagen": "https://res.cloudinary.com/didwrtnme/image/upload/v1637290366/APP/bebidas/bebida-arroz_ziaphp.png"
+        },
+        {
+            "id": 13,
+            "nombre": "Chocolate Caliente",n
+            "precio": 12.00,
+            "moneda": "MXN",
+            "categoria": "bebidas",
+            "imagen": "https://res.cloudinary.com/didwrtnme/image/upload/v1637290366/APP/bebidas/bebida-chocolate_ptso1k.png"
+        },
+        {
+            "id": 14,
+            "nombre": "Cafe Negro",
+            "precio": 12.00,
+            "moneda": "MXN",
+            "categoria": "bebidas",
+            "imagen": "https://res.cloudinary.com/didwrtnme/image/upload/v1637290366/APP/bebidas/bebida-cafe_qcfatk.png"
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "name": "Miguel Mariano Rubide",
+            "email": "mimarumo25@gmail.com",
+            "pass": "12345",
+            "direccion":"Quibdo"
+        },
+        {
+            "id": 2,
+            "name": "Juan Pablo Motoya Palacios",
+            "email": "correo@gmail.com",
+            "pass": "12345",
+            "direccion":"Bogota"
+        }
+    ]
+}
